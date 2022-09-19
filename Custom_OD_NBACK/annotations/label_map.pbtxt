@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'LeftArrow'
+}
+
+item {
+    id: 2
+    name: 'RightArrow'
+}
+
+item {
+    id: 3
+    name: 'BlueAvatar'
+}
+
+item {
+    id: 4
+    name: 'GreenAvatar'
+}
